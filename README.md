@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **franjisca/franjisca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,70 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,2,2,5,30)
+<br/>
+<br/>
+
+### 👋 Thank you for your visiting! 👋 
+</div>
+
+<br/>
+<br/>
+
+<div align="center">
+
+#### 📫 How to reach me
+<a href="mailto:publicjy324@gmail.com" title="send a mail"><img src="https://img.shields.io/badge/email-F06B66?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<br/>
+<br/>
+
+#### 💻 blog
+<a href="https://velog.io/@hanj1yeon" title="move to jiyeon's blog"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
+<br/>
+<br/>
+
+#### 📝 skill
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white">
+<br/>
+<br/>
+
+#### 🏷️ interested
+<img src="https://img.shields.io/badge/nodeJs-339933?style=for-the-badge&logo=nodejs&logoColor=white">
+<img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextjs&logoColor=white">
+<img src="https://img.shields.io/badge/firebase-000000?style=for-the-badge&logo=firebase&logoColor=white">
+<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+<br/>
+
+<img src="https://img.shields.io/badge/doker-2496ED?style=for-the-badge&logo=doker&logoColor=white">
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+<br/>
+<br/>
+<br/>
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franjisca&layout=compact)](https://github.com/franjisca/github-readme-stats)
+<br/>
+<br/>
+<br/>
+
+</div>
+
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,2,2,5,30)
+
+</div>
