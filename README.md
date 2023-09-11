@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 ### 💻 blog
 <a href="https://velog.io/@hanj1yeon" title="move to jiyeon's blog"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
 <br/>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hanj1yeon)](https://velog.io/@hanj1yeon)
+<br/>
 <br/>
 
 ### 📝 skill
