@@ -18,26 +18,29 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,2,2,5,30)
 <br/>
 <br/>
+<br/>
 
-### 👋 Thank you for your visiting! 👋 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Thank+you+for+your+visiting!+👋&size=30&width=600&font=Black+Han+Sans&center=true&repeat=false&color=010554)](https://git.io/typing-svg)
+
 </div>
+
 
 <br/>
 <br/>
 
 <div align="center">
 
-#### 📫 How to reach me
+### 📫 How to reach me
 <a href="mailto:publicjy324@gmail.com" title="send a mail"><img src="https://img.shields.io/badge/email-F06B66?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <br/>
 <br/>
 
-#### 💻 blog
+### 💻 blog
 <a href="https://velog.io/@hanj1yeon" title="move to jiyeon's blog"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
 <br/>
 <br/>
 
-#### 📝 skill
+### 📝 skill
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
@@ -52,7 +55,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-#### 🏷️ interested
+### 🏷️ interested
 <img src="https://img.shields.io/badge/nodeJs-339933?style=for-the-badge&logo=nodejs&logoColor=white">
 <img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextjs&logoColor=white">
 <img src="https://img.shields.io/badge/firebase-000000?style=for-the-badge&logo=firebase&logoColor=white">
