@@ -70,10 +70,16 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franjisca&layout=compact)](https://github.com/franjisca/github-readme-stats)
 <br/>
 <br/>
 <br/>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=franjisca&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=franjisca&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=franjisca&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=franjisca&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=franjisca&theme=vue&utcOffset=utcOffset)
+
 
 </div>
 
