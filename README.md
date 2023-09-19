@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Thank+you+for+your+visiting!+👋&size=30&width=600&font=Black+Han+Sans&center=true&repeat=false&color=010554)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Thank+you+for+your+visiting!+👋&size=30&width=600&font=Black+Han+Sans&center=true&repeat=false&color=010554)](https://git.io/typing-svg) -->
 
 </div>
 
