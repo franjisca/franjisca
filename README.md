@@ -35,9 +35,12 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-### 💻 blog
-<a href="https://velog.io/@hanj1yeon" title="move to jiyeon's blog"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
+### <a href="https://spiky-shoulder-7b9.notion.site/49b533dd63364e779898983cb4d9133d?pvs=4" title="jiyeon"><img src="https://simpleicons.org/icons/notion.svg" style="width:50px; height:50px"/></a>
 <br/>
+
+### <a href="https://velog.io/@hanj1yeon" title="move to jiyeon's blog"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
+<br/>
+
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hanj1yeon)](https://velog.io/@hanj1yeon)
 <br/>
 <br/>
